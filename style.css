@@ -19,7 +19,7 @@ body {
 .tab {
     width: clamp(20rem, 60vw, 70rem);
     max-width: 100%;
-    margin: 50px auto;
+    margin: 40px auto;
     position: relative;
 }
 
