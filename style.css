@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: rgb(93, 93, 93);
+    background: rgb(146, 0, 244);
     font-family: monospace;
     display: flex;
     flex-direction: column;
@@ -24,7 +24,7 @@ body {
 }
 
 .tab a {
-    font-size: 22px;
+    font-size: 26px;
     font-weight: bold;
     line-height: 36px;
     text-decoration: none;
