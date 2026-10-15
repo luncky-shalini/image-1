@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: red;
+    background: rgb(11, 46, 106);
     font-family: monospace;
     display: flex;
     flex-direction: column;
